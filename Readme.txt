@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+Files for My Personal Webpage at  AnDa-creator.github.io
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
